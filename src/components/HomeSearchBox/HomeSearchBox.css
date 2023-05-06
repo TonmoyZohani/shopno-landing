@@ -1,0 +1,11 @@
+.home-search-box-2 .MuiTabs-root button {
+  background-color: #fff;
+  /* transition: all 0.5s ease-in-out; */
+}
+
+.home-search-box-2 .Mui-selected {
+  background-color: var(--secondary-color) !important;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px 20px;
+}
